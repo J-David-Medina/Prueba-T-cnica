@@ -33,7 +33,7 @@ npm install
 npm run dev
 ```
 
-🔗 Servidor disponible en: `http://localhost:3000`
+🔗 Servidor disponible en: `http://localhost:3000/users`
 
 ### Configuración de la Aplicación React
 
